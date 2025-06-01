@@ -38,4 +38,4 @@
 
 <h2 align="left">🏆 Github Trophies</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dgdzd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dgdzd&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
