@@ -13,7 +13,7 @@
 <h2 align="left">Hey 👋 My name is Noah and I'm a student from France</h2>
 <p align="left">
   📚 Not learning (cuz I'm already a pro at coding)<br>
-  🎯 Currently working on DataMorph with <a href="https://github.com/mathishp33">mathishp33</a> and <a href="https://github.com/Alexandre1a">Alexandre1a</a>.
+  🎯 Currently working on <a href="https://github.com/DataMorph-org">DataMorph</a> with <a href="https://github.com/mathishp33">mathishp33</a> and <a href="https://github.com/Alexandre1a">Alexandre1a</a>.
 </p>
 
 <h2 align="left">⚡ Github Stats</h2>
